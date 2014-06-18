@@ -1,0 +1,10 @@
+F:\TFSRoot\Projects\EDM_VCS\LinqDemo201406\bin\Debug\LinqDemo201406.exe
+F:\TFSRoot\Projects\EDM_VCS\LinqDemo201406\bin\Debug\LinqDemo201406.pdb
+F:\TFSRoot\Projects\EDM_VCS\LinqDemo201406\obj\Debug\LinqDemo20140618.csprojResolveAssemblyReference.cache
+F:\TFSRoot\Projects\EDM_VCS\LinqDemo201406\obj\Debug\LinqDemo201406.exe
+F:\TFSRoot\Projects\EDM_VCS\LinqDemo201406\obj\Debug\LinqDemo201406.pdb
+F:\TempProjects\LinqDemo20140618\obj\Debug\LinqDemo201406.exe
+F:\TempProjects\LinqDemo20140618\obj\Debug\LinqDemo201406.pdb
+F:\TempProjects\LinqDemo20140618\bin\Debug\LinqDemo201406.exe
+F:\TempProjects\LinqDemo20140618\bin\Debug\LinqDemo201406.pdb
+F:\TempProjects\LinqDemo20140618\obj\Debug\LinqDemo20140618.csprojResolveAssemblyReference.cache
