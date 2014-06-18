@@ -14,7 +14,7 @@ namespace LinqDemo20140618
         static void Main(string[] args)
         {
             //查找不同的Frame Number
-            Console.WriteLine("查找不同的Frame Number");
+            Console.WriteLine("查找不同的Frame Number, todo...");
             var syncInfo = Utility.GenerateSynchDisplayInfo();
          
             syncInfo.Select(kp => kp.Value.FrameNumber).Distinct().ToList().ForEach(frameNumber =>
