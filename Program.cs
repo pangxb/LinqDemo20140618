@@ -106,7 +106,7 @@ namespace LinqDemo20140618
             //oftype
             object[] objArray = {1,2,3.33,"cde", new DSPFrame() };
 
-            var maxInt = objArray.OfType<int>().FirstOrDefault();
+            var maxInt = objArray.OfType<Program>().FirstOrDefault();
 
 
             //Func委托,聚合函数等           
@@ -149,9 +149,9 @@ namespace LinqDemo20140618
                     return new DerivedClass();
                 };
 
-          //  Func<BaseClass, BaseClass> del_bc_bc = del_bc_dc;
-          //  Func<DerivedClass,DerivedClass> del_dc_dc = del_bc_dc;
-           // Func<DerivedClass,BaseClass> del_dc_bc = del_bc_dc;
+            Func<BaseClass, BaseClass> del_bc_bc = del_bc_dc;
+            Func<DerivedClass,DerivedClass> del_dc_dc = del_bc_dc;
+           Func<DerivedClass,BaseClass> del_dc_bc = del_bc_dc;
 
 
 
